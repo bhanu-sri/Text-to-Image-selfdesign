@@ -9,6 +9,7 @@ This project is an Outfit Generator web application that uses a text description
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Information](#model-information)
+- [Output Images with Prompt](#outfit-generator)
 
 
 ## Features
@@ -30,6 +31,7 @@ This project is an Outfit Generator web application that uses a text description
 git clone[ (https://github.com/bhanu-sri/Text-to-Image-self-fashio-design-/)
 cd Text-to-Image-self-fashio-design-
 
+## Outfit-Generator
 
 ![image](https://github.com/user-attachments/assets/5ef9ed6a-1bb0-4881-ba90-62e4fcfd81f5)
 ![image](https://github.com/user-attachments/assets/422f3cec-1ce0-4251-9560-293c4d5b3b55)
