@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Outfit Generator</title>
+</head>
+<body>
+    <h1>Outfit Description to Image Generator</h1>
+    <form action="/generate" method="post">
+        <textarea name="description" rows="4" cols="50" placeholder="Describe your outfit..."></textarea><br>
+        <button type="submit">Generate Outfit</button>
+    </form>
+    <img src="{{ url_for('static', filename='outputs/output.png') }}" alt="Generated Outfit" />
+</body>
+</html>
