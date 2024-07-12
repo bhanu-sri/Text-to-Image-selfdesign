@@ -28,8 +28,8 @@ This project is an Outfit Generator web application that uses a text description
 ### Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd outfit_generator
+git clone https://github.com/bhanu-sri/Text-to-Image-selfdesign/
+cd Text-to-Image-selfdesign
 ```
 
 ### Create a Virtual Environment
