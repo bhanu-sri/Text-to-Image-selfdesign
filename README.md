@@ -11,7 +11,7 @@ This project is an Outfit Generator web application that uses a text description
 - [Installation](#installation)
 - [Usage](#usage)
 - [Model Information](#model-information)
-- [Output Generator](#output)
+- [Contribution](#contribute)
 
 ## Features
 
