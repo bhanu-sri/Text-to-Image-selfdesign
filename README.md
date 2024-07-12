@@ -1,6 +1,5 @@
 # Text-to-Image [self-fashio-design]
 
-```markdown
 # Outfit Generator
 
 This project is an Outfit Generator web application that uses a text description to generate an image of an outfit using the Stable Diffusion model.
